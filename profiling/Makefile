@@ -1,0 +1,2 @@
+valgrind:
+	kcachegrind callgrind.out.*
